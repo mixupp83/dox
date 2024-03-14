@@ -1,0 +1,4 @@
+from urban_lesson13 import greeting as gr, greeting_ru as gr_ru
+
+gr()
+gr_ru()
